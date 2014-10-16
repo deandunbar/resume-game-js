@@ -1,6 +1,12 @@
 Super Resume World ( My resume is a video game)
 -------------------------------------------------------------------------------
 
+![alt tag](http://s3.amazonaws.com/challengepost/photos/production/software_photos/000/174/155/datas/xlarge.png?1413471854)
+
+
+Live Demo:
+http://SuperResumeWorld.com
+
 Play as Tux.
 - collect linux coins
 - avoid infected windoze computers
@@ -16,7 +22,8 @@ Instructions
 Using MelonJS javascript game library. 
 produced the music track ( it was a quick edit. I can do way better haha)
 
-
+Play Now:
+http://SuperResumeWorld.com
 
 -------------------------------------------------------------------------------
 feel Free to play the game. And if you are hiring feel free to send me a message
