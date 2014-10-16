@@ -1,7 +1,5 @@
-Super Resume World 
-( Win my resume by playing a video game)
+Super Resume World <br> ( Win my resume by playing a video game)
 -------------------------------------------------------------------------------
-
 ![alt tag](http://s3.amazonaws.com/challengepost/photos/production/software_photos/000/174/155/datas/xlarge.png?1413471854)
 
 
