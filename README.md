@@ -17,6 +17,9 @@ Using MelonJS javascript game library.
 produced the music track ( it was a quick edit. I can do way better haha)
 
 
+Demo:
+SuperResumeWorld.com
+
 
 -------------------------------------------------------------------------------
 feel Free to play the game. And if you are hiring feel free to send me a message
